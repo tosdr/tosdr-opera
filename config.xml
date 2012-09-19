@@ -1,0 +1,11 @@
+<widget xmlns="http://www.w3.org/ns/widgets" version="1.0">
+	<name short="Terms of Service">Terms of Service; Didn't Read</name>
+	<description>
+		We are a user rights initiative to rate and label website terms &amp; privacy policies, from very good Class A to very bad Class E
+	</description>
+	<author href="http://tos-dr.info/">
+    	Terms of Service; Didn't Read
+	</author>
+	<icon src="img/logo-18.png" />
+	<icon src="img/logo-64.png" />
+</widget>
