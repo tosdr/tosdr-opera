@@ -6,7 +6,7 @@
 	<author href="http://tos-dr.info/">
     	Terms of Service; Didn't Read
 	</author>
-	<icon src="img/logo-18.png" />
-	<icon src="img/logo-64.png" />
+	<icon src="images/logo-18.png" />
+	<icon src="images/logo-64.png" />
 	<access origin="*" />
 </widget>

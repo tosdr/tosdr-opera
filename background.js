@@ -8,8 +8,10 @@ window.addEventListener('load', function() {
     disabled: false,
     title: "Terms of Service",
     icon: "img/logo-18.png",
-    onclick: function() {
-      window.opera.postError('"Button example" clicked.');
+    popup: {
+      href: 'popup.html',
+      width: 550,
+      height: 480
     }
   });
   opera.contexts.toolbar.addItem(button);
