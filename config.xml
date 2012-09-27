@@ -8,4 +8,5 @@
 	</author>
 	<icon src="img/logo-18.png" />
 	<icon src="img/logo-64.png" />
+	<access origin="*" />
 </widget>
