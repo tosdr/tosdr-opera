@@ -1,4 +1,4 @@
-/*global opera:false, $:false, Tosdr:false*/
+/*global opera:false*/
 "use strict";
 
 (function () {
@@ -128,7 +128,8 @@
   }
 
   window.addEventListener("DOMContentLoaded", function () {
-    var service = Tosdr.getService("TODO Get URL of active tab.");
+    var url = opera.extension.bgProcess.opera.extension.tabs.getSelected().url;
+    var service = opera.extension.bgProcess.Tosdr.getService(url);
     if (service) {
       renderPopup(service.name);
     }
