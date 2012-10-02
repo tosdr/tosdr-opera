@@ -11,8 +11,7 @@
 	<license href="http://opensource.org/licenses/AGPL-3.0">
 		Licensed under AGPLv3
     </license>
-	<icon src="images/logo-18.png" />
-	<icon src="images/logo-64.png" />
+	<icon src="images/tosdr-icon-64.png" />
 	<access origin="*" />
 	<update-description href="http://operaextension.tos-dr.info/update-info.xml" />
 </widget>
