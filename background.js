@@ -18,7 +18,17 @@ window.addEventListener('load', function() {
 }, false);
 
 opera.extension.onmessage = function(event) {
-  var service = Tosdr.getService(event.data);
+  updateIcon(event.data);
+};
+opera.extension.tabs.onfocus = function(event) {
+  updateIcon(event.tab.url);
+};
+opera.extension.windows.onfocus = function() {
+  updateIcon(opera.extension.tabs.getSelected().url);
+};
+
+function updateIcon(url) {
+  var service = Tosdr.getService(url);
   if (service) {
     if (service.tosdr.rated) {
       button.icon = 'icons/' + service.tosdr.rated.toLowerCase() + '.png';
@@ -30,4 +40,4 @@ opera.extension.onmessage = function(event) {
   else {
     button.icon = 'icons/none.png';
   }
-};
+}
