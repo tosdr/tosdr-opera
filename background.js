@@ -1,4 +1,4 @@
-/*global opera:false*/
+/*global opera:false, Tosdr:false*/
 "use strict";
 
 var button;
