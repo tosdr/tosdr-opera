@@ -1,12 +1,18 @@
-<widget xmlns="http://www.w3.org/ns/widgets" version="0.1">
-	<name short="Terms of Service">Terms of Service; Didn't Read</name>
+<widget xmlns="http://www.w3.org/ns/widgets"
+		id="http://operaextension.tos-dr.info"
+		version="0.1">
+	<name short="Terms of Service">Terms of Service; Didn’t Read</name>
 	<description>
-		We are a user rights initiative to rate and label website terms &amp; privacy policies, from very good Class A to very bad Class E
+		Get information instantly about websites’ terms of service and privacy policies, with ratings and summaries from the “Terms of Service; Didn’t Read” project (http://tos-dr.info/).
 	</description>
 	<author href="http://tos-dr.info/">
-    	Terms of Service; Didn't Read
+    	Terms of Service; Didn’t Read
 	</author>
+	<license href="http://opensource.org/licenses/AGPL-3.0">
+		Licensed under AGPLv3
+    </license>
 	<icon src="images/logo-18.png" />
 	<icon src="images/logo-64.png" />
 	<access origin="*" />
+	<update-description href="http://operaextension.tos-dr.info/update-info.xml" />
 </widget>
