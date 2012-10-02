@@ -7,7 +7,7 @@ window.addEventListener('load', function() {
   button = opera.contexts.toolbar.createItem({
     disabled: false,
     title: "Terms of Service",
-    icon: "img/logo-18.png",
+    icon: "icons/none.png",
     popup: {
       href: 'popup.html',
       width: 550,
