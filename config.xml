@@ -13,5 +13,4 @@
     </license>
 	<icon src="images/tosdr-icon-64.png" />
 	<access origin="*" />
-	<update-description href="http://operaextension.tos-dr.info/update-info.xml" />
 </widget>
