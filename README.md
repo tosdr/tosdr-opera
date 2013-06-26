@@ -16,4 +16,9 @@ Get the extension
 
 ![screenshot](images/screenshot1.jpg)
 
+The extension is Free Software. You can report bugs and contribute
+features at <https://github.com/tosdr/tosdr-opera>. If you like
+it, please consider
+[contributing](http://tosdr.org/contribute.html) to the project.
+
 [tosdr]: http://tosdr.org
