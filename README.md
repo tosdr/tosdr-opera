@@ -14,4 +14,6 @@ Read][tosdr] initiative.
 Get the extension
 [here](https://addons.opera.com/fr/extensions/details/terms-of-service-didnt-read/)
 
+![screenshot](images/screenshot1.jpg)
+
 [tosdr]: http://tosdr.org
