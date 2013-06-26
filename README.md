@@ -11,4 +11,7 @@ showing an unintrusive icon in the toolbar. You can click on this
 icon to get summaries from the [Terms of Service; Didn't
 Read][tosdr] initiative.
 
+Get the extension
+[here](https://addons.opera.com/fr/extensions/details/terms-of-service-didnt-read/)
+
 [tosdr]: http://tosdr.org
