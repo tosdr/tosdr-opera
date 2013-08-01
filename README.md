@@ -14,7 +14,7 @@ Read][tosdr] initiative.
 Get the extension
 [here](https://addons.opera.com/fr/extensions/details/terms-of-service-didnt-read/)
 
-![screenshot](images/screenshot1.jpg)
+![screenshot](images/screenshot1.png)
 
 The extension is Free Software. You can report bugs and contribute
 features at <https://github.com/tosdr/tosdr-opera>. If you like
