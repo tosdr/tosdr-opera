@@ -10,7 +10,10 @@
     "default_title" : "Terms of Service; Didn’t Read"
   },
   "permissions" : [
-    "tabs"
+    "tabs",
+    "storage",
+    "http://*/*",
+    "https://*/*"
   ],
   "icons" : {
     "48" : "images/icon-48.png",
