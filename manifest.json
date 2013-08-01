@@ -1,7 +1,7 @@
 {
   "name": "Terms of Service; Didn’t Read",
-  "version": "1.0.6",
-  "description": "Get information instantly about websites' terms of service and privacy policies, with ratings and summaries from the www.tosdr.org.",
+  "version": "1.0.0",
+  "description": "Get information instantly about websites' terms of service and privacy policies, with ratings and summaries from the “Terms of Service; Didn’t Read” project.",
   "homepage_url" : "http://tosdr.org",
   "background": { "scripts": ["libs/jquery.js","utils.js","background.js"] },
   "page_action" :
